@@ -1,5 +1,3 @@
 # haya_imu_msgs
 
-ROS2(humble) Package for messages of haya_imu_ros2.
-
-coming soon...
+haya_imu_msgsは、9軸IMU/AHRS haya_imu v3の専用ROS2(humble)パッケージです。
